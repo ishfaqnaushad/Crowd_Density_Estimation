@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: my-project-m9w3t
+  url: https://universe.roboflow.com/projects-sdnz3/my-project-m9w3t/dataset/2
+  version: 2
+  workspace: projects-sdnz3
+test: ../test/images
+train: ../train/images
+val: ../valid/images
